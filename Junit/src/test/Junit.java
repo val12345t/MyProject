@@ -7,7 +7,9 @@ public class Junit {
 	}
 	public int multiply(int i,int j)
 	{
+		System.out.println("test1");
 		return i*j;
+		
 	}
-
+	
 }
